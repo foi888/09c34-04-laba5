@@ -1,0 +1,8 @@
+__pycache__/
+.venv
+ok.txt
+errors.txt
+anketa.txt
+demo.txt
+nums.txt
+*.log
