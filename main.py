@@ -33,5 +33,6 @@ def main():
     # 4. Запись в файлы
     save_results(OK_FILE, ERRORS_FILE, accepted, rejected)
 
+
 if __name__ == "__main__":
     main()
